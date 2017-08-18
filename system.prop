@@ -1,0 +1,6 @@
+# system.prop for msm8952
+
+ro.secure=0
+ro.allow.mock.location=1
+ro.debuggable=1
+
